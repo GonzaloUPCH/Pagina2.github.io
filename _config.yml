@@ -1,7 +1,7 @@
 # Site settings
 title: Amutay
 email: 
-description: > Grupo 13
+description: <Grupo13>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
